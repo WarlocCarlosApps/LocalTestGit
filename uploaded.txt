@@ -1,0 +1,6 @@
+
+cd 'C:\Users\Dieter HellStorm\Documents\'
+
+Remove-Item TestPower\* -Recurse -Force
+
+ls TestPower
